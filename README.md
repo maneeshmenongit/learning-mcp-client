@@ -70,9 +70,22 @@ Try asking:
 
 ## Next Steps
 
+- **Try community servers**: See [COMMUNITY_SERVERS.md](COMMUNITY_SERVERS.md) for ready-to-use servers
+  - Filesystem: Read/write files with natural language
+  - GitHub: Manage issues and PRs
+  - PostgreSQL: Query databases
+  - And many more!
 - Try creating your own MCP server with different tools
-- Connect to existing MCP servers (file system, databases, APIs)
 - Extend the client to handle multiple servers simultaneously
+
+## Community Servers Quick Start
+
+Check out working examples:
+- `demo_filesystem.py` - Interact with files using natural language
+- `demo_github.py` - Manage GitHub repositories
+- `enhanced_client.py` - Supports both Python and Node.js servers
+
+See [COMMUNITY_SERVERS.md](COMMUNITY_SERVERS.md) for full guide.
 
 ## Authentication Setup
 

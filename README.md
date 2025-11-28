@@ -73,3 +73,7 @@ Try asking:
 - Try creating your own MCP server with different tools
 - Connect to existing MCP servers (file system, databases, APIs)
 - Extend the client to handle multiple servers simultaneously
+
+## Authentication Setup
+
+This project is configured with SSH authentication for GitHub.
